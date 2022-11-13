@@ -1,0 +1,72 @@
+# QR-code-assignment-deux
+
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+     <title>QR code assignment</title>
+  <body style="align-content:center; display:flexbox; flex-wrap:wrap; font-size:15px; font-weight:bold;"> Frontend Mentor| QR Component 
+      
+      
+      <!-- -->
+      <br>
+      <br>
+      
+      <!-- white container -->
+      <div style="
+      border-radius: 12px;
+      background-color: #ffffff;
+      text-align: center;
+      align-items: center;
+      margin:22auto;
+      padding:11px;
+      display:block;
+      width: fit-content;
+      ">
+</body>
+</head>
+    <br>
+    <h2>
+        <!-- blue container -->
+        <div style="background-color:#15a1ff; border-radius:12px; border:none; width:120px; height:120px; text-align:center; display:block; margin:auto; padding:40px; filter:drop-shadow(4px, 4px);">
+            
+         <!-- image (qr-code) -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/QR_code_for_mobile_English_Wikipedia.svg/2048px-QR_code_for_mobile_English_Wikipedia.svg.png" alt="qr-code"  style="width:100px; height:100px; margin:auto; filter:invert(100%);">
+     </div>
+    <br>
+    <h3>
+        <style>
+            div{
+              text-align: center;
+            }
+            </style>
+            </h3>
+            <div>
+    <font color="black", size="3px">
+  <head> <strong><em>Improve front-end skills by building projects</em></strong>
+  </head>
+  </div>
+  <br>
+  <h4>
+      <style>
+          div{
+            text-align: center;
+            }
+            </style>
+            </h4>
+            <div>
+  <body> <font color="grey", size="2px"> Scan the QR code to visit Frontend mentor and take your coding skills to the next level! </font>
+  </body> 
+  </font>
+  </div>
+  <br>
+  <h5>
+      <style>
+          div{
+            text-align: center;
+          }
+          </style>
+          </h5>
+          <div>
+  <p> <font size="1px"> Challenge by <a href="https://www.frontendmentor.io">Frontend Mentor</a> coded by Unwana Umana </p> </font> </div>
+</html>
